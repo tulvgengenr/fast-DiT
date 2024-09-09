@@ -11,3 +11,7 @@ dependencies:
     - timm
     - diffusers
     - accelerate
+    - tensorflow>=2.0
+    - scipy
+    - requests
+    - tqdm
