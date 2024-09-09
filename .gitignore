@@ -1,5 +1,8 @@
 **.pyc
 **.png
 **.tar
+**.JPEG
+**.pb
+**.npz
 
 pretrained_models/**
